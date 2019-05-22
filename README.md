@@ -44,7 +44,7 @@ will need to perform an analysis for each of the generated Code Dx XML files.
 Once the converter has finished, the name specified after the '-o' will be available for inclusion
 in Code Dx analyses.
 
-# Example Reports
+## Example Reports
 
 A couple of example reports are located in the `csv` directory.  They may be converted by:
 
